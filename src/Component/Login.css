@@ -1,0 +1,39 @@
+.div1
+{
+    background-color: #F2F3F4;
+    height: 380px;
+}
+.heading
+{
+    margin-top: 70px;
+}
+.l1
+{
+    font-size: 15px;
+}
+.l2
+{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.i1, .i2
+{
+    width: 300px;
+}
+.button
+{
+    border: 1px solid darkslateblue;
+    border-radius: 5px;
+    width: 58px;
+    background-color:darkslateblue;
+    color: white;
+    font-size: 15px;
+    height: 30px;
+}
+.p1
+{
+    margin-top: -26px;
+    margin-left: 72px;
+    font-size: 15px;
+    color: darkslateblue;
+}

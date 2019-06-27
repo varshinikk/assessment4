@@ -1,0 +1,49 @@
+.div2
+{
+    background-color: #F2F3F4;
+    height: 500px;
+}
+.head
+{
+    margin-top: 70px;
+}
+.label1
+{
+    font-size: 15px;
+}
+.label2
+{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.label3
+{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.label4
+{
+    font-size: 15px;
+    margin-top: 10px;
+}
+.input1, .input2, .input3, .input4
+{
+    width: 300px;
+}
+.b1
+{
+    border: 1px solid darkslateblue;
+    border-radius: 5px;
+    width: 76px;
+    background-color:darkslateblue;
+    color: white;
+    font-size: 15px;
+    height: 30px;
+}
+.p2
+{
+    margin-top: -25px;
+    margin-left: 88px;
+    font-size: 15px;
+    color: darkslateblue;
+}

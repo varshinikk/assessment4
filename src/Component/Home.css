@@ -1,0 +1,36 @@
+.head1
+{
+    margin-top: 25px;
+}
+.head2
+{
+    margin-top: -38px;
+    margin-left: 995px;
+}
+.head3, .head4
+{
+    margin-top: 40px;
+}
+.head5
+{
+    margin-top: 15px;
+}
+.head6
+{
+    margin-top: 10px;
+}
+.ip1, .ip2
+{
+    width: 530px;
+    height: 35px;
+}
+.button1
+{
+    margin-top: 10px;
+    width: 121px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    height: 35px;
+}

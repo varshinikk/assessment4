@@ -1,0 +1,108 @@
+.heading1
+{
+    margin-top:25px;
+}
+.heading2
+{
+    margin-top:25px;
+    margin-left: 430px;
+}
+.heading3
+{
+    margin-top:30px;
+}
+.heading4
+{
+    margin-top:30px;
+}
+.heading5
+{
+    margin-top:30px;
+}
+th
+{
+    column-count:2;
+}
+.btn1
+{
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 5px;
+    width: 59px;
+    font-size: 15px;
+}
+.btn2
+{
+    border: 1px solid lightgray;
+    background-color: lightgray;
+    border-radius: 5px;
+    margin-left: 10px;
+    font-size: 15px;
+}
+/* .hr1
+{
+
+} */
+.hr2
+{
+    margin-left: -415px;
+}
+.label3
+{
+    font-size: 16px;
+}
+.label4
+{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.ip3, .ip4
+{
+    width: 500px;
+    height: 35px;
+}
+.btn4
+{
+    margin-top: 10px;
+    width: 120px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    height: 35px;
+}
+.btn5
+{
+    margin-top: 10px;
+    margin-left: 15px;
+    width: 80px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    height: 35px;
+}
+.ip1, .ip2
+{
+    width: 500px;
+    height: 35px;
+}
+.label1
+{
+    font-size: 16px;
+}
+.label2
+{
+    font-size: 16px;
+    margin-top: 10px;
+}
+.btn3
+{
+    margin-top: 10px;
+    width: 121px;
+    border: 1px solid blue;
+    background-color: blue;
+    border-radius: 4px;
+    color: white;
+    height: 35px;
+}

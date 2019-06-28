@@ -11,7 +11,7 @@ class Login extends Component{
   }
 
   handleclick=()=>{
-          browserHistory.push('/Home')
+          browserHistory.push('/Home1')
   }
 
   render(){
@@ -24,9 +24,9 @@ class Login extends Component{
         <form>
             <h3 className="heading">Login</h3>
             <label className="l1"><b>Username</b></label><br></br>
-            <input className="i1" type='text'></input><br></br>
+            <input className="i1" type='text' name='username'></input><br></br>
             <label className="l2"><b>Password</b></label><br></br>
-            <input className="i2" type='text'></input><br></br>
+            <input className="i2" type='text' name='password'></input><br></br>
         </form><br></br>
         <button className="button" onClick={this.props.handleClick} onClick={this.handleclick}>Login</button>
         <p className="p1" onClick={this.handlepress}>Register</p>

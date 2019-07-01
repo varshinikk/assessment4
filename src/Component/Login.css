@@ -1,7 +1,7 @@
 .div1
 {
     background-color: #F2F3F4;
-    height: 380px;
+    height: 450px;
 }
 .heading
 {
@@ -29,6 +29,10 @@
     color: white;
     font-size: 15px;
     height: 30px;
+}
+.p3, .p4
+{
+    color:red;
 }
 .p1
 {

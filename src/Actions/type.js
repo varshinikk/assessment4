@@ -1,2 +1,2 @@
-export const CLICK='CLICK';
-export const PRESS='PRESS';
+export const CLICK = 'CLICK';
+export const REGISTER = 'REGISTER';

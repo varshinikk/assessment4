@@ -1,7 +1,7 @@
 import *as ActionTypes from './type';
 
-    export function handleClick(){
-        return function(dispatch){
-            dispatch({type:"CLICK"});
-      }
+export function REGISTER() {
+  return function (dispatch) {
+    dispatch({ type: "REGISTER" });
+  }
 }

@@ -1,11 +1,11 @@
 .div2
 {
     background-color: #F2F3F4;
-    height: 500px;
+    height: 600px;
 }
 .head
 {
-    margin-top: 70px;
+    margin-top: 30px;
 }
 .label1
 {
@@ -46,4 +46,8 @@
     margin-left: 88px;
     font-size: 15px;
     color: darkslateblue;
+}
+.p5
+{
+    color:red;
 }
